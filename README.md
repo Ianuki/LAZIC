@@ -1,4 +1,4 @@
 # LAZIC
 ↳ **"Keep it stupid, simple"**
 
-A lazy programming language intended to run on the Atmega328.
+A lazy programming language made to run on the Atmega328.
